@@ -1,2 +1,2 @@
 # SedaiBasic2-Deps
-Binary dependencies for SedaiBasic2 project.
+Binary and library dependencies for SedaiBasic2 project.
